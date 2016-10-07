@@ -17,4 +17,4 @@ File| Description
 `simulation_NK.R` | main simulation code for the NK landscape
 `simulation_MW.R` | main simulation code for the Mason and Watts (2012) landscape
 
-Citation: Barkoczi, D. & Galesic, M. (2016). Social learning strategies modify the effect of network structure on group performance. Nature Communications 7, Article number: 13109 (2016) doi:10.1038/ncomms13109
+Citation: Barkoczi, D. and Galesic, M. Social learning strategies modify the effect of network structure on group performance. Nat. Commun. 7, 13109 doi: 10.1038/ncomms13109 (2016).
