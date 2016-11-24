@@ -6,9 +6,8 @@ This directory contains the results of the simulations.
 
 Folder | Description
 --- | -----
-`results_Environmental_Change` | Results for the environmental change condition. Each file contains results for a single repetition.
 `results_MW` | Results for the Mason and Watts landscape
 `results_NK` | Results for the NK landscape assuming N=15 and K=7
 `results_NK_k=0-14` | Results for the NK landscape different values of K
 
-Citation: Barkoczi, D. & Galesic, M. (2016). Social learning strategies modify the effect of network structure on group performance. Arxiv Working Paper. arXiv:1606.00753v1
+Citation: Barkoczi, D. and Galesic, M. Social learning strategies modify the effect of network structure on group performance. Nat. Commun. 7, 13109 doi: 10.1038/ncomms13109 (2016).
